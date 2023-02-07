@@ -1,0 +1,15 @@
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.csproj.AssemblyReference.cache
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.AssemblyInfoInputs.cache
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.AssemblyInfo.cs
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\bin\Debug\net6.0\M01S02-Ex2.exe
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\bin\Debug\net6.0\M01S02-Ex2.deps.json
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\bin\Debug\net6.0\M01S02-Ex2.runtimeconfig.json
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\bin\Debug\net6.0\M01S02-Ex2.dll
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\bin\Debug\net6.0\M01S02-Ex2.pdb
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.dll
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\refint\M01S02-Ex2.dll
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.pdb
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\M01S02-Ex2.genruntimeconfig.cache
+C:\Users\angelo.souza\source\repos\M01S02-Ex2\obj\Debug\net6.0\ref\M01S02-Ex2.dll
